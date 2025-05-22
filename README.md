@@ -17,4 +17,22 @@ Gracias a este taller, se comprendió la importancia de sincronizar correctament
 
 ## Resultados
 
-![Resultados Multi-threading Java](img/Resultados_MultithreadingJava.png)
+## Resultados
+
+### 1. Ejecución con clase `Thread`
+![Thread](img/Thread.png)
+
+### 2. Ejecución con interfaz `Runnable`
+![Runnable](img/Runnable.png)
+
+### 3. Ejecución de sincronización de hilos para acceso seguro a recursos compartidos
+![Synchronized](img/Synchronized.png)
+
+### 4. Ejecución con `ExecutorService` y múltiples tareas
+![Executor](img/Executor.png)
+
+### 5. Ejecución con `Callable` y `Future` para retorno de resultados
+![Callable](img/Callable.png)
+
+### 6. Ejemplo con múltiples hilos simulando una tienda virtual
+![MyThread](img/MyThread.png)
