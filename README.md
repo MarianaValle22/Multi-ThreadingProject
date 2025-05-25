@@ -1,6 +1,6 @@
 # Taller de Multi-threading en Java
 
-## Trabajado por Mariana Valle Moreno
+## Trabajado por Mariana Valle Moreno y Juan Pablo Benitez
 
 ---
 
